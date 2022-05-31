@@ -29,6 +29,7 @@
 	border-radius: 20px;
 }
 
+
 .card-body{
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -45,10 +46,6 @@
 	color: hsl(215, 51%, 70%);
 	font-weight: 300;
 	margin-bottom: 10px;
-}
-
-.card-footer{
-
 }
 
 .card-info{
