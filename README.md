@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Here]([https://your-live-site-url.com](https://orloxx23.github.io/Frontend-Mentor-1/))
 
 ## My process
 
@@ -42,5 +41,5 @@ Users should be able to:
 
 - Website - [Orloxx](https://www.github.com/orloxx23)
 - Frontend Mentor - [@Orloxx23](https://www.frontendmentor.io/profile/Orloxx23)
-- Twitter - [@yourusername](https://www.twitter.com/orlox23)
+- Twitter - [@Orloxx23](https://www.twitter.com/orlox23)
 
