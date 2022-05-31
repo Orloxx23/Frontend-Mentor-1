@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Here]([https://your-live-site-url.com](https://orloxx23.github.io/Frontend-Mentor-1/))
+- Live Site URL: [Here](https://orloxx23.github.io/Frontend-Mentor-1/)
 
 ## My process
 
